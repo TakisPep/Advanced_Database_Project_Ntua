@@ -1,0 +1,2 @@
+http://master:50070/explorer.html#/
+http://master:50070/explorer.html#/results
